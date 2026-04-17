@@ -17,7 +17,7 @@ For this project, I was interestested in using Stack Overflow data from 2025 to 
 
 
 ## File Descriptions <a name="files"></a>
-The StackOverflowAnalysis.ipynb provides an analysis of the variables that are related to salary.
+The SalaryAnalysis.ipynb provides an analysis of the job satisfaction of employed candidates.
 
 
 ## Results<a name="results"></a>
