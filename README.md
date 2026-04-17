@@ -22,7 +22,7 @@ The StackOverflowAnalysis.ipynb provides an analysis of the variables that are r
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here]([(https://medium.com/@felix.morel/the-quiet-quitting-signal-what-actually-predicts-developer-job-satisfaction-in-2026-61792c98ae22)]).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
