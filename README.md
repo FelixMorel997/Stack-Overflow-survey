@@ -17,13 +17,13 @@ For this project, I was interestested in using Stack Overflow data from 2025 to 
 
 
 ## File Descriptions <a name="files"></a>
-The StackOverflowAnalysis.ipynb provides an analysis of the variables that are related to salary.
+The SalaryAnalysis.ipynb provides an analysis of the job satisfaction of employed candidates.
 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here]([(https://medium.com/@felix.morel/the-quiet-quitting-signal-what-actually-predicts-developer-job-satisfaction-in-2026-61792c98ae22)]).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2025/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here]([(https://survey.stackoverflow.co/)]).  Otherwise, feel free to use the code here as you would like! 
